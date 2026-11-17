@@ -1,0 +1,13 @@
+[theme]
+base = "light"
+primaryColor = "#12355B"            # lapis
+backgroundColor = "#F2F5F7"         # limestone
+secondaryBackgroundColor = "#E1EBEF" # sidebar / inputs
+textColor = "#14212E"               # ink
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
